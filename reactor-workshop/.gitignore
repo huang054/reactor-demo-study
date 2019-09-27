@@ -1,0 +1,10 @@
+*.class
+.idea
+*.iml
+**/build
+**/.gradle
+gradle
+*.log
+hs_err_pid*
+**/out
+out
